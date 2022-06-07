@@ -1,0 +1,192 @@
+{
+    "name": "Kaustubh Odak",
+    "landing": {
+        "title": "The best Life is the hardest",
+        "subtitles": [
+            "Full-stack developer 🌐",
+            "Cross-platform developer 📱💻",
+            "Exploring cloud ☁️",
+            "Beginner in devops ♾️",
+            "Just getting started 📈"
+        ],
+        "professionalDetails": [{
+                "alt": "Ouazmir Abdelkarim",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/km8oz/"
+            },
+            {
+                "alt": "kimo_ouz",
+                "icon": "stackoverflow",
+                "link": "https://stackoverflow.com/users/5241318/kimo-ouz"
+            },
+            {
+                "alt": "kausko",
+                "icon": "github",
+                "link": "https://github.com/KM8Oz"
+            },
+            {
+                "alt": "Email",
+                "icon": "gmail",
+                "link": "mailto:kimo@oldi.dev"
+            }
+        ]
+    },
+    "skills": {
+        "Languages known": [
+            "JavaScript",
+            "Rust",
+            "Linux",
+            "Python",
+            "Php",
+            "HTML5",
+            "CSS3",
+            "TypeScript",
+            "Kotlin",
+            "Dart"
+        ],
+        "Frontend": [{
+                "alt": "React+mobx+styledComponents",
+                "icon": "React"
+            },
+            "Vue.js",
+            "Next.js",
+            "Wordpress",
+            "Netlify",
+            "Vercel",
+            "Material-UI",
+            "antdesign"
+        ],
+        "Backend, Database and Cloud": [
+            "Node.js",
+            "Express",
+            "FastAPI",
+            "Socket.io",
+            "MySQL",
+            "PostgreSQL",
+            {
+                "alt": "Peer.js",
+                "icon": "Socket.io"
+            },
+            "Heroku",
+            "Firebase",
+            "Docker",
+            "Github"
+        ],
+        "Mobile": [{
+                "alt": "React_Native",
+                "icon": "react",
+                "backgroundColor": "#424242"
+            },
+            "Expo",
+            {
+                "alt": "Android studio with gradle",
+                "icon": "Android",
+                "backgroundColor": "#424242"
+            },
+            "Android",
+            "Xcode",
+            "Flutter"
+        ]
+    },
+    "projects": {
+        "baseURI": "https://api.github.com/repos/KM8Oz/",
+        "repositories": [
+            "wireguard-client",
+            "react-webpack-type-starter",
+            "wildberriesApiConnector",
+            "Quran_turkish",
+            "deviceinfos",
+            "gazprices-plugin"
+        ]
+    },
+    "experience": {
+        "Work Experience": [{
+                "organization": "ООО Бизнес цех",
+                "role": "Full Stack Developer",
+                "type": "freelancing",
+                "startDate": "2019-06-01",
+                "endDate": "2019-09-30",
+                "city": "Astrakhan",
+                "state": "Astrakhan oblast",
+                "country": "Russian Federation",
+                "url": "https://bzcekh.ru",
+                "thumbnail": "/logo3.svg"
+            }, {
+                "organization": "Bitstorage ltd",
+                "role": "Full Stack Developer",
+                "type": "freelancing",
+                "startDate": "2019-09-30",
+                "endDate": "2019-12-30",
+                "city": "Astrakhan",
+                "state": "Astrakhan oblast",
+                "country": "Russian Federation",
+                "url": "https://bitstorage.finance/",
+                "thumbnail": "/b78e76b.png"
+            },
+            {
+                "organization": "OLDI LTD, AO",
+                "role": "Full Stack Developer",
+                "type": "freelancing",
+                "startDate": "2019-12-30",
+                "endDate": "now",
+                "city": "Moscow",
+                "state": "Moscow oblast",
+                "country": "Russian Federation",
+                "url": "https://oldicomputers.ru",
+                "thumbnail": "/oldi_logo_ver_2011_medium.jpg"
+            }
+        ],
+        "Volunteer Experience": [{
+            "organization": "Enactus Student Branch (ISPM)",
+            "role": "Media",
+            "type": "Member",
+            "startDate": "2014-12-01",
+            "endDate": "2017-06-01",
+            "city": "Agdir",
+            "state": "Souss Massa",
+            "country": "Morocco",
+            "url": "http://www.ispm.ac.ma/enactus-lispm/",
+            "thumbnail": "/enactus.png"
+        }]
+    },
+    "about": {
+        "description": "Self driven cross-platform developer and devOps simplistic, founder of DUP INC and co-founder of DIGITIZE YOUR PROJECTS SARLU. npmjs contributor. big fun of webassembly and native nodejs extensions.",
+        "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFMjxSy2_Z9zw/profile-displayphoto-shrink_800_800/0/1649639681159?e=1660176000&v=beta&t=EN_dlPZFziFauM3GZ4g076HOAwen0APScREA63iOdOo",
+        "social": [{
+                "alt": "@Capbarbas",
+                "icon": "telegram",
+                "link": "https://t.me/Capbarbas"
+            },
+            {
+                "alt": "@niceblueman",
+                "icon": "twitter",
+                "link": "https://twitter.com/niceblueman"
+            },
+            {
+                "alt": "kmoz000#7688",
+                "icon": "discord",
+                "link": "https://discord.com/channels/@kmoz000#7688"
+            }
+        ]
+    },
+    "theme": {
+        "light": {
+            "palette": {
+                "type": "light",
+                "background": {
+                    "paper": "#fff",
+                    "default": "#fafafa"
+                }
+            }
+        },
+        "dark": {
+            "palette": {
+                "type": "dark",
+                "background": {
+                    "paper": "#19192b99",
+                    "default": "#0f273c"
+                }
+            }
+        }
+    }
+}
