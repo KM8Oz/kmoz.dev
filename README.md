@@ -1,6 +1,6 @@
-# Portfolio
+# kmoz.dev
 
-![views](https://githits.vercel.app/api/views?user=kausko&repo=Portfolio&mode=dark&disable=Total)
+<!-- ![views](https://githits.vercel.app/api/views?user=KM8Oz&repo=kmoz.dev&mode=dark&disable=Total) -->
 
 ## Tech Stack
 
@@ -12,7 +12,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## How to personalize
-- Press [![image](https://img.shields.io/badge/Use%20this%20template-2EA043?style=for-the-badge)](https://github.com/kausko/Portfolio/generate) to clone this template to your Github account
+- Press [![image](https://img.shields.io/badge/Use%20this%20template-2EA043?style=for-the-badge)](https://github.com/KM8Oz/kmoz.dev/generate) to clone this template to your Github account
 - Clone the newly created repository in your account to your local machine
 - Customize the following files with your own information
     - `data.json` with your
@@ -103,6 +103,6 @@ Deployment with Vercel automatically sets up your repository for continuous depl
 *`npm` commands also work
 
 ## Lighthouse stats
-![image](https://raw.githubusercontent.com/kausko/Portfolio/master/public/Lighthouse.PNG?token=AMW772UHUMQCJSOBYSVYAQ3AHCTAY)
+![image](https://raw.githubusercontent.com/KM8Oz/kmoz.dev/master/public/Lighthouse.PNG?token=AMW772UHUMQCJSOBYSVYAQ3AHCTAY)
 
 *These stats were recorded on Google Chrome's incognito mode for Desktop. These stats are subject to change and may increase or decrease depending on the tester's environment and/or changes to source code.*
