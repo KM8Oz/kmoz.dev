@@ -102,7 +102,6 @@ Deployment with Vercel automatically sets up your repository for continuous depl
 
 *`npm` commands also work
 
-## Lighthouse stats
-![image](https://raw.githubusercontent.com/KM8Oz/kmoz.dev/master/public/Lighthouse.PNG?token=AMW772UHUMQCJSOBYSVYAQ3AHCTAY)
+
 
 *These stats were recorded on Google Chrome's incognito mode for Desktop. These stats are subject to change and may increase or decrease depending on the tester's environment and/or changes to source code.*
