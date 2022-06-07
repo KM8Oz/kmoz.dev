@@ -96,7 +96,8 @@
             "wildberriesApiConnector",
             "Quran_turkish",
             "deviceinfos",
-            "gazprices-plugin"
+            "gazprices-plugin",
+            "https://github.com/KM8Oz/rn-slideHandler-kmoz"
         ]
     },
     "experience": {
